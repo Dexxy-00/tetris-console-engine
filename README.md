@@ -1,5 +1,3 @@
-Author : Avyay Sood
-
 # Tetris Console Engine
 
 A console-based implementation of the classic Tetris game written in C++.
@@ -14,3 +12,7 @@ A console-based implementation of the classic Tetris game written in C++.
 Uses CMake.
 
 Created in JetBrains CLion IDE
+
+## Author
+
+Avyay Sood
