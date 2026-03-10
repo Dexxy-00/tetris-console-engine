@@ -31,11 +31,12 @@ This project uses CMake.
 
 ## Controls
 
-A / Left Arrow  -> Move piece left  
-D / Right Arrow -> Move piece right  
-Q               -> Rotate left  
-E               -> Rotate right
-
+| Key | Action |
+|----|------|
+| A | Move piece left |
+| D | Move piece right |
+| Q | Rotate piece left |
+| E | Rotate piece right |
 ## Author
 
 Avyay Sood
